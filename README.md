@@ -1,4 +1,4 @@
-# vue-exercice
+# Find a picture
 
 ## Project setup
 ```
